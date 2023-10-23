@@ -1,0 +1,34 @@
+{
+    "name": "CursorControllers",
+    "maps": [
+        {
+            "name": "Cursor",
+            "id": "6eb80d0a-781a-426d-9582-27d1d3fbf250",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "4c0ad8e3-7cfa-44d2-9b8c-ea9089178167",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b3d0aabe-e2a9-4aa0-bb31-b85755015785",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
